@@ -1,5 +1,5 @@
 # Site
-name: "jch의 블로그"
+name: "Hot Item"
 title: "많이 구매하는 물건들"
 description: "어떤 선물을 하면 좋을까 고민 될 땐 요즘 사람들이 많이 찾는 것 중에 골라보세요"
 logo: "assets/images/logo.png"
@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   jch:
-    name: jch
-    display_name: jch
+    name: 고슴더치
+    display_name: 고슴더치
     avatar: "assets/images/avatar.png"
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: ico1828@gmail.com
     web: https://jch1223.github.io/blog/
-    description: "혼자 사는 남자"
+    description: "선물 추천 블로그"
 
 # Plugins
 plugins:
