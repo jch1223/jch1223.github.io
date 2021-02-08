@@ -4,7 +4,7 @@ title: "많이 구매하는 물건들"
 description: "어떤 선물을 하면 좋을까 고민 될 땐?"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-baseurl: /
+baseurl: "/""
 url: "https://jch1223.github.io/"
 google_analytics: "UA-140684501-6"
 disqus: ""
